@@ -8,10 +8,6 @@
 **如何更换城市**  
 打开底部“云间小筑”，选择加号可以选择不同的区域查看天气。
 
-## 隐私政策
-
-[查看精灵物语天气隐私政策](https://jinglingtianqiai.github.io/support/privacy.html)，生效日期：2026年09月20日。
-
 ## 联系支持
 
 请通过 [GitHub Issues](https://github.com/jinglingtianqiai/support/issues) 联系开发者。
