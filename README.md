@@ -13,6 +13,6 @@
 
 ## 联系支持
 
-请通过 [GitHub Issues](https://github.com/jinglingwuyu/support/issues) 联系开发者。
+请通过 [GitHub Issues](https://github.com/jinglingtianqiai/support/issues) 联系开发者。
 
 发送问题时请附上 App 版本、iPhone 型号、iOS 版本和问题截图。
